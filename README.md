@@ -64,6 +64,3 @@ Egypt_Aviation_Network_Project/
 ├── powerbi/
 │   ├── Black_Gray_PowerBI_Theme.json     # Custom executive Power BI theme file
 │   └── PowerBI_Setup_Guide.md            # Step-by-step setup guide for Power BI
-│
-└── dashboard_preview/
-    └── Egypt_Aviation_Network_Dashboard.html  # Interactive HTML web dashboard
