@@ -1,0 +1,574 @@
+Airline_Code,Airline_Name,Origin_IATA,Origin_City,Origin_Country,Destination_IATA,Destination_City,Destination_Country,Codeshare,Stops,Equipment,Direction,Egypt_Airport
+2L,Helvetic Airways,RMF,Marsa Alam,Egypt,ZRH,Zurich,Switzerland,No,0,319,Departure,RMF
+2L,Helvetic Airways,ZRH,Zurich,Switzerland,RMF,Marsa Alam,Egypt,No,0,319,Arrival,RMF
+4D,Air Sinai,CAI,Cairo,Egypt,TLV,Tel-aviv,Israel,No,0,E70,Departure,CAI
+4D,Air Sinai,TLV,Tel-aviv,Israel,CAI,Cairo,Egypt,No,0,E70,Arrival,CAI
+4T,Belair Airlines,BSL,Mulhouse,France,HRG,Hurghada,Egypt,No,0,320,Arrival,HRG
+4T,Belair Airlines,HRG,Hurghada,Egypt,BSL,Mulhouse,France,No,0,320,Departure,HRG
+4T,Belair Airlines,HRG,Hurghada,Egypt,ZRH,Zurich,Switzerland,No,0,320,Departure,HRG
+4T,Belair Airlines,RMF,Marsa Alam,Egypt,ZRH,Zurich,Switzerland,No,0,320,Departure,RMF
+4T,Belair Airlines,ZRH,Zurich,Switzerland,HRG,Hurghada,Egypt,No,0,320,Arrival,HRG
+4T,Belair Airlines,ZRH,Zurich,Switzerland,RMF,Marsa Alam,Egypt,No,0,320,Arrival,RMF
+8U,Afriqiyah Airways,BEN,Benghazi,Libya,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+8U,Afriqiyah Airways,CAI,Cairo,Egypt,BEN,Benghazi,Libya,No,0,320,Departure,CAI
+8U,Afriqiyah Airways,CAI,Cairo,Egypt,TIP,Tripoli,Libya,No,0,320 332,Departure,CAI
+8U,Afriqiyah Airways,HBE,Alexandria,Egypt,TIP,Tripoli,Libya,No,0,320 319,Departure,HBE
+8U,Afriqiyah Airways,TIP,Tripoli,Libya,CAI,Cairo,Egypt,No,0,320 332,Arrival,CAI
+8U,Afriqiyah Airways,TIP,Tripoli,Libya,HBE,Alexandria,Egypt,No,0,320 319,Arrival,HBE
+A3,Aegean Airlines,ATH,Athens,Greece,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+A3,Aegean Airlines,ATH,Athens,Greece,HBE,Alexandria,Egypt,No,0,E70,Arrival,HBE
+A3,Aegean Airlines,CAI,Cairo,Egypt,ATH,Athens,Greece,No,0,738,Departure,CAI
+A3,Aegean Airlines,HBE,Alexandria,Egypt,ATH,Athens,Greece,No,0,E70,Departure,HBE
+AB,Air Berlin,CGN,Cologne,Germany,HRG,Hurghada,Egypt,No,0,738,Arrival,HRG
+AB,Air Berlin,DRS,Dresden,Germany,HRG,Hurghada,Egypt,No,0,738,Arrival,HRG
+AB,Air Berlin,DUS,Duesseldorf,Germany,HRG,Hurghada,Egypt,No,0,738 332,Arrival,HRG
+AB,Air Berlin,DUS,Duesseldorf,Germany,RMF,Marsa Alam,Egypt,No,0,321,Arrival,RMF
+AB,Air Berlin,HRG,Hurghada,Egypt,CGN,Cologne,Germany,No,0,738,Departure,HRG
+AB,Air Berlin,HRG,Hurghada,Egypt,DRS,Dresden,Germany,No,0,738,Departure,HRG
+AB,Air Berlin,HRG,Hurghada,Egypt,DUS,Duesseldorf,Germany,No,0,738 332,Departure,HRG
+AB,Air Berlin,HRG,Hurghada,Egypt,LEJ,Leipzig,Germany,No,0,738,Departure,HRG
+AB,Air Berlin,HRG,Hurghada,Egypt,NUE,Nuernberg,Germany,No,0,738,Departure,HRG
+AB,Air Berlin,HRG,Hurghada,Egypt,TXL,Berlin,Germany,No,0,321,Departure,HRG
+AB,Air Berlin,LEJ,Leipzig,Germany,HRG,Hurghada,Egypt,No,0,738,Arrival,HRG
+AB,Air Berlin,NUE,Nuernberg,Germany,HRG,Hurghada,Egypt,No,0,738,Arrival,HRG
+AB,Air Berlin,RMF,Marsa Alam,Egypt,DUS,Duesseldorf,Germany,No,0,321,Departure,RMF
+AB,Air Berlin,TXL,Berlin,Germany,HRG,Hurghada,Egypt,No,0,321,Arrival,HRG
+AF,Air France,CAI,Cairo,Egypt,CDG,Paris,France,No,0,332 343,Departure,CAI
+AF,Air France,CDG,Paris,France,CAI,Cairo,Egypt,No,0,343 332,Arrival,CAI
+AH,Air Algerie,ALG,Algier,Algeria,CAI,Cairo,Egypt,No,0,736,Arrival,CAI
+AH,Air Algerie,CAI,Cairo,Egypt,ALG,Algier,Algeria,No,0,736,Departure,CAI
+AI,Air India Limited,BOM,Mumbai,India,CAI,Cairo,Egypt,Yes,0,738,Arrival,CAI
+AI,Air India Limited,CAI,Cairo,Egypt,BOM,Mumbai,India,Yes,0,738,Departure,CAI
+AT,Royal Air Maroc,CAI,Cairo,Egypt,CMN,Casablanca,Morocco,No,0,738,Departure,CAI
+AT,Royal Air Maroc,CAI,Cairo,Egypt,RUH,Riyadh,Saudi Arabia,No,0,738,Departure,CAI
+AT,Royal Air Maroc,CMN,Casablanca,Morocco,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+AT,Royal Air Maroc,RUH,Riyadh,Saudi Arabia,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+AZ,Alitalia,CAI,Cairo,Egypt,FCO,Rome,Italy,No,0,319 32S,Departure,CAI
+AZ,Alitalia,CAI,Cairo,Egypt,MXP,Milano,Italy,No,0,32S 319,Departure,CAI
+AZ,Alitalia,FCO,Rome,Italy,CAI,Cairo,Egypt,No,0,32S 319,Arrival,CAI
+AZ,Alitalia,MXP,Milano,Italy,CAI,Cairo,Egypt,No,0,32S 319,Arrival,CAI
+BA,British Airways,CAI,Cairo,Egypt,LHR,London,United Kingdom,No,0,767,Departure,CAI
+BA,British Airways,LHR,London,United Kingdom,CAI,Cairo,Egypt,No,0,767,Arrival,CAI
+CA,Air China,CAI,Cairo,Egypt,CAN,Guangzhou,China,Yes,0,773,Departure,CAI
+CA,Air China,CAI,Cairo,Egypt,PEK,Beijing,China,Yes,0,330,Departure,CAI
+CA,Air China,CAN,Guangzhou,China,CAI,Cairo,Egypt,Yes,0,773,Arrival,CAI
+CA,Air China,PEK,Beijing,China,CAI,Cairo,Egypt,Yes,0,330,Arrival,CAI
+DE,Condor Flugdienst,DUS,Duesseldorf,Germany,HRG,Hurghada,Egypt,No,0,757,Arrival,HRG
+DE,Condor Flugdienst,FRA,Frankfurt,Germany,HRG,Hurghada,Egypt,No,0,757,Arrival,HRG
+DE,Condor Flugdienst,HAM,Hamburg,Germany,HRG,Hurghada,Egypt,No,0,757,Arrival,HRG
+DE,Condor Flugdienst,HRG,Hurghada,Egypt,DUS,Duesseldorf,Germany,No,0,757,Departure,HRG
+DE,Condor Flugdienst,HRG,Hurghada,Egypt,FRA,Frankfurt,Germany,No,0,757,Departure,HRG
+DE,Condor Flugdienst,HRG,Hurghada,Egypt,HAM,Hamburg,Germany,No,0,757,Departure,HRG
+DE,Condor Flugdienst,HRG,Hurghada,Egypt,MUC,Munich,Germany,No,0,757,Departure,HRG
+DE,Condor Flugdienst,MUC,Munich,Germany,HRG,Hurghada,Egypt,No,0,757,Arrival,HRG
+E5,Air Arabia Egypt,AMM,Amman,Jordan,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+E5,Air Arabia Egypt,DMM,Dammam,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+E5,Air Arabia Egypt,HBE,Alexandria,Egypt,AMM,Amman,Jordan,No,0,320,Departure,HBE
+E5,Air Arabia Egypt,HBE,Alexandria,Egypt,DMM,Dammam,Saudi Arabia,No,0,320,Departure,HBE
+E5,Air Arabia Egypt,HBE,Alexandria,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,HBE
+E5,Air Arabia Egypt,HBE,Alexandria,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,HBE
+E5,Air Arabia Egypt,HBE,Alexandria,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320,Departure,HBE
+E5,Air Arabia Egypt,JED,Jeddah,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+E5,Air Arabia Egypt,KWI,Kuwait,Kuwait,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+E5,Air Arabia Egypt,RUH,Riyadh,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+EK,Emirates,CAI,Cairo,Egypt,DXB,Dubai,United Arab Emirates,No,0,773 772,Departure,CAI
+EK,Emirates,DXB,Dubai,United Arab Emirates,CAI,Cairo,Egypt,No,0,773 772,Arrival,CAI
+EO,Express One International,CAI,Cairo,Egypt,ELQ,Gassim,Saudi Arabia,No,0,320,Departure,CAI
+EO,Express One International,CAI,Cairo,Egypt,TIF,Taif,Saudi Arabia,No,0,320,Departure,CAI
+EO,Express One International,CAI,Cairo,Egypt,TUU,Tabuk,Saudi Arabia,No,0,320,Departure,CAI
+EO,Express One International,CAI,Cairo,Egypt,YNB,Yenbo,Saudi Arabia,No,0,320,Departure,CAI
+EO,Express One International,ELQ,Gassim,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+EO,Express One International,HBE,Alexandria,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,HBE
+EO,Express One International,HBE,Alexandria,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,HBE
+EO,Express One International,JED,Jeddah,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+EO,Express One International,KWI,Kuwait,Kuwait,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+EO,Express One International,TIF,Taif,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+EO,Express One International,TUU,Tabuk,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+EO,Express One International,YNB,Yenbo,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+ET,Ethiopian Airlines,ADD,Addis Ababa,Ethiopia,CAI,Cairo,Egypt,No,0,73W 738,Arrival,CAI
+ET,Ethiopian Airlines,CAI,Cairo,Egypt,ADD,Addis Ababa,Ethiopia,No,0,73W 738,Departure,CAI
+ET,Ethiopian Airlines,CAI,Cairo,Egypt,LCA,Larnaca,Cyprus,Yes,0,E70,Departure,CAI
+ET,Ethiopian Airlines,LCA,Larnaca,Cyprus,CAI,Cairo,Egypt,Yes,0,E70,Arrival,CAI
+EY,Etihad Airways,AUH,Abu Dhabi,United Arab Emirates,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+EY,Etihad Airways,CAI,Cairo,Egypt,AUH,Abu Dhabi,United Arab Emirates,No,0,320,Departure,CAI
+FZ,Fly Dubai,DXB,Dubai,United Arab Emirates,HBE,Alexandria,Egypt,No,0,73H,Arrival,HBE
+FZ,Fly Dubai,HBE,Alexandria,Egypt,DXB,Dubai,United Arab Emirates,No,0,73H,Departure,HBE
+G9,Air Arabia,ATZ,Asyut,Egypt,SHJ,Sharjah,United Arab Emirates,No,0,320,Departure,ATZ
+G9,Air Arabia,CAI,Cairo,Egypt,SHJ,Sharjah,United Arab Emirates,No,0,320,Departure,CAI
+G9,Air Arabia,HBE,Alexandria,Egypt,SHJ,Sharjah,United Arab Emirates,No,0,320,Departure,HBE
+G9,Air Arabia,HMB,Sohag,Egypt,SHJ,Sharjah,United Arab Emirates,No,0,320,Departure,HMB
+G9,Air Arabia,SHJ,Sharjah,United Arab Emirates,ATZ,Asyut,Egypt,No,0,320,Arrival,ATZ
+G9,Air Arabia,SHJ,Sharjah,United Arab Emirates,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+G9,Air Arabia,SHJ,Sharjah,United Arab Emirates,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+G9,Air Arabia,SHJ,Sharjah,United Arab Emirates,HMB,Sohag,Egypt,No,0,320,Arrival,HMB
+GF,Gulf Air Bahrain,BAH,Bahrain,Bahrain,CAI,Cairo,Egypt,No,0,320 321,Arrival,CAI
+GF,Gulf Air Bahrain,CAI,Cairo,Egypt,BAH,Bahrain,Bahrain,No,0,320 321,Departure,CAI
+HG,Niki,HRG,Hurghada,Egypt,SZG,Salzburg,Austria,No,0,320 321,Departure,HRG
+HG,Niki,HRG,Hurghada,Egypt,VIE,Vienna,Austria,No,0,320 321,Departure,HRG
+HG,Niki,RMF,Marsa Alam,Egypt,VIE,Vienna,Austria,No,0,321,Departure,RMF
+HG,Niki,SZG,Salzburg,Austria,HRG,Hurghada,Egypt,No,0,320 321,Arrival,HRG
+HG,Niki,VIE,Vienna,Austria,HRG,Hurghada,Egypt,No,0,320 321,Arrival,HRG
+HG,Niki,VIE,Vienna,Austria,RMF,Marsa Alam,Egypt,No,0,321,Arrival,RMF
+HK,Yangon Airways,DUS,Duesseldorf,Germany,HRG,Hurghada,Egypt,No,0,320,Arrival,HRG
+HK,Yangon Airways,HRG,Hurghada,Egypt,DUS,Duesseldorf,Germany,No,0,320,Departure,HRG
+IG,Meridiana,MXP,Milano,Italy,SSH,Sharm El Sheikh,Egypt,No,0,737,Arrival,SSH
+IY,Yemenia,ADE,Aden,Yemen,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+IY,Yemenia,CAI,Cairo,Egypt,ADE,Aden,Yemen,No,0,320,Departure,CAI
+IY,Yemenia,CAI,Cairo,Egypt,CDG,Paris,France,No,0,330,Departure,CAI
+IY,Yemenia,CAI,Cairo,Egypt,RIY,Mukalla,Yemen,No,0,320,Departure,CAI
+IY,Yemenia,CAI,Cairo,Egypt,SAH,Sanaa,Yemen,No,0,310 330 320,Departure,CAI
+IY,Yemenia,CAI,Cairo,Egypt,TAI,Taiz,Yemen,No,0,320,Departure,CAI
+IY,Yemenia,CDG,Paris,France,CAI,Cairo,Egypt,No,0,330,Arrival,CAI
+IY,Yemenia,HOD,Hodeidah,Yemen,CAI,Cairo,Egypt,No,0,310,Arrival,CAI
+IY,Yemenia,RIY,Mukalla,Yemen,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+IY,Yemenia,SAH,Sanaa,Yemen,CAI,Cairo,Egypt,No,0,310 330 320,Arrival,CAI
+IY,Yemenia,TAI,Taiz,Yemen,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+J9,Jazeera Airways,ATZ,Asyut,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,ATZ
+J9,Jazeera Airways,CAI,Cairo,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,CAI
+J9,Jazeera Airways,HBE,Alexandria,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,HBE
+J9,Jazeera Airways,HMB,Sohag,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,HMB
+J9,Jazeera Airways,KWI,Kuwait,Kuwait,ATZ,Asyut,Egypt,No,0,320,Arrival,ATZ
+J9,Jazeera Airways,KWI,Kuwait,Kuwait,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+J9,Jazeera Airways,KWI,Kuwait,Kuwait,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+J9,Jazeera Airways,KWI,Kuwait,Kuwait,HMB,Sohag,Egypt,No,0,320,Arrival,HMB
+J9,Jazeera Airways,KWI,Kuwait,Kuwait,LXR,Luxor,Egypt,No,0,320,Arrival,LXR
+J9,Jazeera Airways,LXR,Luxor,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,LXR
+KL,KLM Royal Dutch Airlines,AMS,Amsterdam,Netherlands,CAI,Cairo,Egypt,No,0,777,Arrival,CAI
+KL,KLM Royal Dutch Airlines,CAI,Cairo,Egypt,AMS,Amsterdam,Netherlands,No,0,777,Departure,CAI
+KU,Kuwait Airways,CAI,Cairo,Egypt,KWI,Kuwait,Kuwait,No,0,777 340 320 AB6,Departure,CAI
+KU,Kuwait Airways,HBE,Alexandria,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,HBE
+KU,Kuwait Airways,HMB,Sohag,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,HMB
+KU,Kuwait Airways,KWI,Kuwait,Kuwait,CAI,Cairo,Egypt,No,0,777 340 320 AB6,Arrival,CAI
+KU,Kuwait Airways,KWI,Kuwait,Kuwait,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+KU,Kuwait Airways,KWI,Kuwait,Kuwait,HMB,Sohag,Egypt,No,0,320,Arrival,HMB
+LH,Lufthansa,CAI,Cairo,Egypt,FRA,Frankfurt,Germany,No,0,321 32A,Departure,CAI
+LH,Lufthansa,CAI,Cairo,Egypt,MUC,Munich,Germany,Yes,0,738,Departure,CAI
+LH,Lufthansa,FRA,Frankfurt,Germany,CAI,Cairo,Egypt,No,0,32A 321,Arrival,CAI
+LH,Lufthansa,MUC,Munich,Germany,CAI,Cairo,Egypt,Yes,0,738,Arrival,CAI
+LN,Libyan Arab Airlines,BEN,Benghazi,Libya,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+LN,Libyan Arab Airlines,BEN,Benghazi,Libya,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+LN,Libyan Arab Airlines,CAI,Cairo,Egypt,BEN,Benghazi,Libya,No,0,320,Departure,CAI
+LN,Libyan Arab Airlines,CAI,Cairo,Egypt,MRA,,,No,0,320,Departure,CAI
+LN,Libyan Arab Airlines,CAI,Cairo,Egypt,TIP,Tripoli,Libya,No,0,320,Departure,CAI
+LN,Libyan Arab Airlines,HBE,Alexandria,Egypt,BEN,Benghazi,Libya,No,0,320,Departure,HBE
+LN,Libyan Arab Airlines,HBE,Alexandria,Egypt,MRA,,,No,0,320,Departure,HBE
+LN,Libyan Arab Airlines,HBE,Alexandria,Egypt,TIP,Tripoli,Libya,No,0,320 330,Departure,HBE
+LN,Libyan Arab Airlines,HBE,Alexandria,Egypt,TOB,Tobruk,Libya,No,0,CR9,Departure,HBE
+LN,Libyan Arab Airlines,MRA,,,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+LN,Libyan Arab Airlines,MRA,,,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+LN,Libyan Arab Airlines,TIP,Tripoli,Libya,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+LN,Libyan Arab Airlines,TIP,Tripoli,Libya,HBE,Alexandria,Egypt,No,0,320 330,Arrival,HBE
+LN,Libyan Arab Airlines,TOB,Tobruk,Libya,HBE,Alexandria,Egypt,No,0,CR9,Arrival,HBE
+LX,Swiss International Air Lines,CAI,Cairo,Egypt,GVA,Geneva,Switzerland,Yes,0,738,Departure,CAI
+LX,Swiss International Air Lines,CAI,Cairo,Egypt,ZRH,Zurich,Switzerland,No,0,333 343,Departure,CAI
+LX,Swiss International Air Lines,GVA,Geneva,Switzerland,CAI,Cairo,Egypt,Yes,0,738,Arrival,CAI
+LX,Swiss International Air Lines,HRG,Hurghada,Egypt,ZRH,Zurich,Switzerland,Yes,0,320,Departure,HRG
+LX,Swiss International Air Lines,RMF,Marsa Alam,Egypt,ZRH,Zurich,Switzerland,Yes,0,320,Departure,RMF
+LX,Swiss International Air Lines,ZRH,Zurich,Switzerland,CAI,Cairo,Egypt,No,0,333 343,Arrival,CAI
+LX,Swiss International Air Lines,ZRH,Zurich,Switzerland,HRG,Hurghada,Egypt,Yes,0,320,Arrival,HRG
+LX,Swiss International Air Lines,ZRH,Zurich,Switzerland,RMF,Marsa Alam,Egypt,Yes,0,320,Arrival,RMF
+M4,Marysya Airlines,ASW,Aswan,Egypt,CAI,Cairo,Egypt,No,0,DH4,Departure,ASW
+M4,Marysya Airlines,ATZ,Asyut,Egypt,CAI,Cairo,Egypt,No,0,DH4,Departure,ATZ
+M4,Marysya Airlines,CAI,Cairo,Egypt,ASW,Aswan,Egypt,No,0,DH4,Departure,CAI
+M4,Marysya Airlines,CAI,Cairo,Egypt,ATZ,Asyut,Egypt,No,0,DH4,Departure,CAI
+M4,Marysya Airlines,CAI,Cairo,Egypt,HBE,Alexandria,Egypt,No,0,DH4,Departure,CAI
+M4,Marysya Airlines,CAI,Cairo,Egypt,HMB,Sohag,Egypt,No,0,DH4,Departure,CAI
+M4,Marysya Airlines,CAI,Cairo,Egypt,HRG,Hurghada,Egypt,No,0,DH4,Departure,CAI
+M4,Marysya Airlines,CAI,Cairo,Egypt,LXR,Luxor,Egypt,No,0,DH4,Departure,CAI
+M4,Marysya Airlines,CAI,Cairo,Egypt,SSH,Sharm El Sheikh,Egypt,No,0,DH4,Departure,CAI
+M4,Marysya Airlines,HBE,Alexandria,Egypt,CAI,Cairo,Egypt,No,0,DH4,Departure,HBE
+M4,Marysya Airlines,HBE,Alexandria,Egypt,SSH,Sharm El Sheikh,Egypt,No,0,DH4,Departure,HBE
+M4,Marysya Airlines,HMB,Sohag,Egypt,CAI,Cairo,Egypt,No,0,DH4,Departure,HMB
+M4,Marysya Airlines,HMB,Sohag,Egypt,JED,Jeddah,Saudi Arabia,No,0,DH4,Departure,HMB
+M4,Marysya Airlines,HRG,Hurghada,Egypt,CAI,Cairo,Egypt,No,0,DH4,Departure,HRG
+M4,Marysya Airlines,HRG,Hurghada,Egypt,SSH,Sharm El Sheikh,Egypt,No,0,DH4,Departure,HRG
+M4,Marysya Airlines,JED,Jeddah,Saudi Arabia,HMB,Sohag,Egypt,No,0,DH4,Arrival,HMB
+M4,Marysya Airlines,LXR,Luxor,Egypt,CAI,Cairo,Egypt,No,0,DH4,Departure,LXR
+M4,Marysya Airlines,SSH,Sharm El Sheikh,Egypt,CAI,Cairo,Egypt,No,0,DH4,Departure,SSH
+M4,Marysya Airlines,SSH,Sharm El Sheikh,Egypt,HBE,Alexandria,Egypt,No,0,DH4,Departure,SSH
+ME,Middle East Airlines,BEY,Beirut,Lebanon,CAI,Cairo,Egypt,No,0,320 321,Arrival,CAI
+ME,Middle East Airlines,CAI,Cairo,Egypt,BEY,Beirut,Lebanon,No,0,320 321,Departure,CAI
+MH,Malaysia Airlines,BKK,Bangkok,Thailand,CAI,Cairo,Egypt,Yes,0,773,Arrival,CAI
+MH,Malaysia Airlines,CAI,Cairo,Egypt,BKK,Bangkok,Thailand,Yes,0,773,Departure,CAI
+MS,Egyptair,ABS,Abu Simbel,Egypt,ASW,Aswan,Egypt,No,0,E70,Departure,ABS
+MS,Egyptair,ABV,Abuja,Nigeria,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,ACC,Accra,Ghana,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,ADD,Addis Ababa,Ethiopia,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,AHB,Abha,Saudi Arabia,CAI,Cairo,Egypt,No,0,E70 320,Arrival,CAI
+MS,Egyptair,ALG,Algier,Algeria,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,AMM,Amman,Jordan,CAI,Cairo,Egypt,No,0,738 320 E70,Arrival,CAI
+MS,Egyptair,AMS,Amsterdam,Netherlands,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,ASM,Asmara,Eritrea,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,ASW,Aswan,Egypt,ABS,Abu Simbel,Egypt,No,0,E70,Departure,ASW
+MS,Egyptair,ASW,Aswan,Egypt,CAI,Cairo,Egypt,No,0,E70 738,Departure,ASW
+MS,Egyptair,ATH,Athens,Greece,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,ATH,Athens,Greece,HBE,Alexandria,Egypt,No,0,E70,Arrival,HBE
+MS,Egyptair,ATZ,Asyut,Egypt,CAI,Cairo,Egypt,No,0,E70,Departure,ATZ
+MS,Egyptair,AUH,Abu Dhabi,United Arab Emirates,CAI,Cairo,Egypt,No,0,738 330,Arrival,CAI
+MS,Egyptair,BAH,Bahrain,Bahrain,CAI,Cairo,Egypt,No,0,E70,Arrival,CAI
+MS,Egyptair,BCN,Barcelona,Spain,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,BEN,Benghazi,Libya,CAI,Cairo,Egypt,No,0,320 E70,Arrival,CAI
+MS,Egyptair,BEY,Beirut,Lebanon,CAI,Cairo,Egypt,No,0,738 320 E70,Arrival,CAI
+MS,Egyptair,BEY,Beirut,Lebanon,HBE,Alexandria,Egypt,No,0,E70,Arrival,HBE
+MS,Egyptair,BGW,Baghdad,Iraq,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,BKK,Bangkok,Thailand,CAI,Cairo,Egypt,No,0,773,Arrival,CAI
+MS,Egyptair,BOM,Mumbai,India,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,BRU,Brussels,Belgium,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,BUD,Budapest,Hungary,CAI,Cairo,Egypt,No,0,E70,Arrival,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ABV,Abuja,Nigeria,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ACC,Accra,Ghana,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ADD,Addis Ababa,Ethiopia,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,AHB,Abha,Saudi Arabia,No,0,E70 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ALG,Algier,Algeria,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,AMM,Amman,Jordan,No,0,738 320 E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,AMS,Amsterdam,Netherlands,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ASM,Asmara,Eritrea,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ASW,Aswan,Egypt,No,0,738 E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ATH,Athens,Greece,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ATZ,Asyut,Egypt,No,0,E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,AUH,Abu Dhabi,United Arab Emirates,No,0,738 330,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BAH,Bahrain,Bahrain,No,0,E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BCN,Barcelona,Spain,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BEN,Benghazi,Libya,No,0,320 E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BEY,Beirut,Lebanon,No,0,738 320 E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BGW,Baghdad,Iraq,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BKK,Bangkok,Thailand,No,0,773,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BOM,Mumbai,India,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BRU,Brussels,Belgium,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,BUD,Budapest,Hungary,No,0,E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,CAN,Guangzhou,China,No,0,773,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,CDG,Paris,France,No,0,333 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,CGK,Jakarta,Indonesia,No,0,330,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,CMN,Casablanca,Morocco,No,0,321,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,CPH,Copenhagen,Denmark,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,DAR,Dar Es Salaam,Tanzania,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,DME,Moscow,Russia,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,DMM,Dammam,Saudi Arabia,No,0,333 738 330 321,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,DOH,Doha,Qatar,No,0,333 738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,DXB,Dubai,United Arab Emirates,No,0,773 333,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,EBB,Entebbe,Uganda,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,EBL,Erbil,Iraq,No,0,320 321,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ELQ,Gassim,Saudi Arabia,No,0,321 E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,FCO,Rome,Italy,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,FRA,Frankfurt,Germany,No,0,330 738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,GVA,Geneva,Switzerland,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,HBE,Alexandria,Egypt,No,0,320 321,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,HMB,Sohag,Egypt,No,0,E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,HRG,Hurghada,Egypt,No,0,321 E70 735,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,IST,Istanbul,Turkey,No,0,320 738 E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,JED,Jeddah,Saudi Arabia,No,0,738 330 340 333 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,JFK,New York,United States,No,0,773,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,JNB,Johannesburg,South Africa,No,0,330,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,JUB,Juba,South Sudan,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,KAN,Kano,Nigeria,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,KRT,Khartoum,Sudan,No,0,321 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,KWI,Kuwait,Kuwait,No,0,340 738 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,LCA,Larnaca,Cyprus,No,0,E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,LHR,London,United Kingdom,No,0,333 738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,LOS,Lagos,Nigeria,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,LXR,Luxor,Egypt,No,0,738 E70 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,MAD,Madrid,Spain,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,MAN,Manchester,United Kingdom,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,MCT,Muscat,Oman,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,MED,Madinah,Saudi Arabia,No,0,330 738 333,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,MUC,Munich,Germany,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,MXP,Milano,Italy,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,NBO,Nairobi,Kenya,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,PEK,Beijing,China,No,0,330,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,RMF,Marsa Alam,Egypt,No,0,E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,RUH,Riyadh,Saudi Arabia,No,0,738 333 330,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,SAH,Sanaa,Yemen,No,0,320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,SHJ,Sharjah,United Arab Emirates,No,0,738 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,SSH,Sharm El Sheikh,Egypt,No,0,738 E70 735 321,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,SXF,Berlin,Germany,No,0,738,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,TIP,Tripoli,Libya,No,0,321 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,TUN,Tunis,Tunisia,No,0,738 320,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,VIE,Vienna,Austria,No,0,738 E70,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,YYZ,Toronto,Canada,No,0,773,Departure,CAI
+MS,Egyptair,CAI,Cairo,Egypt,ZRH,Zurich,Switzerland,Yes,0,333 343,Departure,CAI
+MS,Egyptair,CAN,Guangzhou,China,CAI,Cairo,Egypt,No,0,773,Arrival,CAI
+MS,Egyptair,CDG,Paris,France,CAI,Cairo,Egypt,No,0,333 320,Arrival,CAI
+MS,Egyptair,CDG,Paris,France,LXR,Luxor,Egypt,No,0,320,Arrival,LXR
+MS,Egyptair,CGK,Jakarta,Indonesia,CAI,Cairo,Egypt,No,0,330,Arrival,CAI
+MS,Egyptair,CMN,Casablanca,Morocco,CAI,Cairo,Egypt,No,0,321,Arrival,CAI
+MS,Egyptair,CPH,Copenhagen,Denmark,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,DAR,Dar Es Salaam,Tanzania,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,DME,Moscow,Russia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,DMM,Dammam,Saudi Arabia,CAI,Cairo,Egypt,No,0,738 333 330 321,Arrival,CAI
+MS,Egyptair,DMM,Dammam,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+MS,Egyptair,DOH,Doha,Qatar,CAI,Cairo,Egypt,No,0,333 738,Arrival,CAI
+MS,Egyptair,DXB,Dubai,United Arab Emirates,CAI,Cairo,Egypt,No,0,333 773,Arrival,CAI
+MS,Egyptair,EBB,Entebbe,Uganda,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,EBL,Erbil,Iraq,CAI,Cairo,Egypt,No,0,320 321,Arrival,CAI
+MS,Egyptair,ELQ,Gassim,Saudi Arabia,CAI,Cairo,Egypt,No,0,321 E70,Arrival,CAI
+MS,Egyptair,FCO,Rome,Italy,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,FRA,Frankfurt,Germany,CAI,Cairo,Egypt,No,0,330 738,Arrival,CAI
+MS,Egyptair,GVA,Geneva,Switzerland,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,HBE,Alexandria,Egypt,ATH,Athens,Greece,No,0,E70,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,BEY,Beirut,Lebanon,No,0,E70,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,CAI,Cairo,Egypt,No,0,738 320 321,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,DMM,Dammam,Saudi Arabia,No,0,320,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,HRG,Hurghada,Egypt,No,0,E70,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,IST,Istanbul,Turkey,Yes,0,73W 319,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,KWI,Kuwait,Kuwait,No,0,320 738,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,MED,Madinah,Saudi Arabia,No,0,320 738,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320,Departure,HBE
+MS,Egyptair,HBE,Alexandria,Egypt,SSH,Sharm El Sheikh,Egypt,No,0,E70,Departure,HBE
+MS,Egyptair,HMB,Sohag,Egypt,CAI,Cairo,Egypt,No,0,E70,Departure,HMB
+MS,Egyptair,HMB,Sohag,Egypt,KWI,Kuwait,Kuwait,No,0,E70,Departure,HMB
+MS,Egyptair,HRG,Hurghada,Egypt,CAI,Cairo,Egypt,No,0,321 E70 735,Departure,HRG
+MS,Egyptair,HRG,Hurghada,Egypt,HBE,Alexandria,Egypt,No,0,E70,Departure,HRG
+MS,Egyptair,HRG,Hurghada,Egypt,IST,Istanbul,Turkey,No,0,738 320,Departure,HRG
+MS,Egyptair,IST,Istanbul,Turkey,CAI,Cairo,Egypt,No,0,320 738 E70,Arrival,CAI
+MS,Egyptair,IST,Istanbul,Turkey,HBE,Alexandria,Egypt,Yes,0,73W 319,Arrival,HBE
+MS,Egyptair,IST,Istanbul,Turkey,HRG,Hurghada,Egypt,No,0,738 320,Arrival,HRG
+MS,Egyptair,IST,Istanbul,Turkey,SSH,Sharm El Sheikh,Egypt,No,0,738 319,Arrival,SSH
+MS,Egyptair,JED,Jeddah,Saudi Arabia,CAI,Cairo,Egypt,No,0,738 333 330 340 320,Arrival,CAI
+MS,Egyptair,JED,Jeddah,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+MS,Egyptair,JED,Jeddah,Saudi Arabia,LXR,Luxor,Egypt,No,0,320,Arrival,LXR
+MS,Egyptair,JED,Jeddah,Saudi Arabia,SSH,Sharm El Sheikh,Egypt,No,0,E70,Arrival,SSH
+MS,Egyptair,JFK,New York,United States,CAI,Cairo,Egypt,No,0,773,Arrival,CAI
+MS,Egyptair,JNB,Johannesburg,South Africa,CAI,Cairo,Egypt,No,0,330,Arrival,CAI
+MS,Egyptair,JUB,Juba,South Sudan,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,KAN,Kano,Nigeria,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,KRT,Khartoum,Sudan,CAI,Cairo,Egypt,No,0,321 320,Arrival,CAI
+MS,Egyptair,KWI,Kuwait,Kuwait,CAI,Cairo,Egypt,No,0,738 340 320,Arrival,CAI
+MS,Egyptair,KWI,Kuwait,Kuwait,HBE,Alexandria,Egypt,No,0,320 738,Arrival,HBE
+MS,Egyptair,KWI,Kuwait,Kuwait,HMB,Sohag,Egypt,No,0,E70,Arrival,HMB
+MS,Egyptair,KWI,Kuwait,Kuwait,LXR,Luxor,Egypt,No,0,320,Arrival,LXR
+MS,Egyptair,KWI,Kuwait,Kuwait,SSH,Sharm El Sheikh,Egypt,No,0,E70,Arrival,SSH
+MS,Egyptair,LCA,Larnaca,Cyprus,CAI,Cairo,Egypt,No,0,E70,Arrival,CAI
+MS,Egyptair,LHR,London,United Kingdom,CAI,Cairo,Egypt,No,0,333 738,Arrival,CAI
+MS,Egyptair,LHR,London,United Kingdom,LXR,Luxor,Egypt,No,0,738,Arrival,LXR
+MS,Egyptair,LOS,Lagos,Nigeria,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,LXR,Luxor,Egypt,CAI,Cairo,Egypt,No,0,738 E70 320,Departure,LXR
+MS,Egyptair,LXR,Luxor,Egypt,CDG,Paris,France,No,0,320,Departure,LXR
+MS,Egyptair,LXR,Luxor,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,LXR
+MS,Egyptair,LXR,Luxor,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,LXR
+MS,Egyptair,LXR,Luxor,Egypt,LHR,London,United Kingdom,No,0,738,Departure,LXR
+MS,Egyptair,MAD,Madrid,Spain,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,MAN,Manchester,United Kingdom,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,MCT,Muscat,Oman,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,MED,Madinah,Saudi Arabia,CAI,Cairo,Egypt,No,0,333 330 738,Arrival,CAI
+MS,Egyptair,MED,Madinah,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320 738,Arrival,HBE
+MS,Egyptair,MUC,Munich,Germany,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,MXP,Milano,Italy,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,NBO,Nairobi,Kenya,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,PEK,Beijing,China,CAI,Cairo,Egypt,No,0,330,Arrival,CAI
+MS,Egyptair,RMF,Marsa Alam,Egypt,CAI,Cairo,Egypt,No,0,E70,Departure,RMF
+MS,Egyptair,RUH,Riyadh,Saudi Arabia,CAI,Cairo,Egypt,No,0,738 333 330,Arrival,CAI
+MS,Egyptair,RUH,Riyadh,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+MS,Egyptair,RUH,Riyadh,Saudi Arabia,SSH,Sharm El Sheikh,Egypt,No,0,E70,Arrival,SSH
+MS,Egyptair,SAH,Sanaa,Yemen,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+MS,Egyptair,SHJ,Sharjah,United Arab Emirates,CAI,Cairo,Egypt,No,0,738 320,Arrival,CAI
+MS,Egyptair,SSH,Sharm El Sheikh,Egypt,CAI,Cairo,Egypt,No,0,738 E70 735 321,Departure,SSH
+MS,Egyptair,SSH,Sharm El Sheikh,Egypt,HBE,Alexandria,Egypt,No,0,E70,Departure,SSH
+MS,Egyptair,SSH,Sharm El Sheikh,Egypt,IST,Istanbul,Turkey,No,0,738 319,Departure,SSH
+MS,Egyptair,SSH,Sharm El Sheikh,Egypt,JED,Jeddah,Saudi Arabia,No,0,E70,Departure,SSH
+MS,Egyptair,SSH,Sharm El Sheikh,Egypt,KWI,Kuwait,Kuwait,No,0,E70,Departure,SSH
+MS,Egyptair,SSH,Sharm El Sheikh,Egypt,RUH,Riyadh,Saudi Arabia,No,0,E70,Departure,SSH
+MS,Egyptair,SXF,Berlin,Germany,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+MS,Egyptair,TIP,Tripoli,Libya,CAI,Cairo,Egypt,No,0,321 320,Arrival,CAI
+MS,Egyptair,TUN,Tunis,Tunisia,CAI,Cairo,Egypt,No,0,738 320,Arrival,CAI
+MS,Egyptair,VIE,Vienna,Austria,CAI,Cairo,Egypt,No,0,738 E70,Arrival,CAI
+MS,Egyptair,YYZ,Toronto,Canada,CAI,Cairo,Egypt,No,0,773,Arrival,CAI
+MS,Egyptair,ZRH,Zurich,Switzerland,CAI,Cairo,Egypt,Yes,0,333 343,Arrival,CAI
+NP,Nile Air,CAI,Cairo,Egypt,ELQ,Gassim,Saudi Arabia,No,0,320,Departure,CAI
+NP,Nile Air,CAI,Cairo,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,CAI
+NP,Nile Air,CAI,Cairo,Egypt,TIF,Taif,Saudi Arabia,No,0,320,Departure,CAI
+NP,Nile Air,CAI,Cairo,Egypt,TUU,Tabuk,Saudi Arabia,No,0,320,Departure,CAI
+NP,Nile Air,CAI,Cairo,Egypt,YNB,Yenbo,Saudi Arabia,No,0,320,Departure,CAI
+NP,Nile Air,ELQ,Gassim,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+NP,Nile Air,HBE,Alexandria,Egypt,ELQ,Gassim,Saudi Arabia,No,0,320,Departure,HBE
+NP,Nile Air,HBE,Alexandria,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,HBE
+NP,Nile Air,HBE,Alexandria,Egypt,KWI,Kuwait,Kuwait,No,0,320,Departure,HBE
+NP,Nile Air,HBE,Alexandria,Egypt,YNB,Yenbo,Saudi Arabia,No,0,320,Departure,HBE
+NP,Nile Air,JED,Jeddah,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+NP,Nile Air,JED,Jeddah,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+NP,Nile Air,KWI,Kuwait,Kuwait,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+NP,Nile Air,TIF,Taif,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+NP,Nile Air,TUU,Tabuk,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+NP,Nile Air,YNB,Yenbo,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+OS,Austrian Airlines,CAI,Cairo,Egypt,VIE,Vienna,Austria,Yes,0,319 738 E70,Departure,CAI
+OS,Austrian Airlines,HRG,Hurghada,Egypt,VIE,Vienna,Austria,Yes,0,319,Departure,HRG
+OS,Austrian Airlines,VIE,Vienna,Austria,CAI,Cairo,Egypt,Yes,0,319 738 E70,Arrival,CAI
+OS,Austrian Airlines,VIE,Vienna,Austria,HRG,Hurghada,Egypt,Yes,0,319,Arrival,HRG
+QR,Qatar Airways,CAI,Cairo,Egypt,DOH,Doha,Qatar,No,0,77L 77W 333 320,Departure,CAI
+QR,Qatar Airways,DOH,Doha,Qatar,CAI,Cairo,Egypt,No,0,77L 77W 333 320,Arrival,CAI
+QR,Qatar Airways,DOH,Doha,Qatar,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+QR,Qatar Airways,DOH,Doha,Qatar,LXR,Luxor,Egypt,No,0,320,Arrival,LXR
+QR,Qatar Airways,HBE,Alexandria,Egypt,DOH,Doha,Qatar,No,0,320,Departure,HBE
+QR,Qatar Airways,LXR,Luxor,Egypt,DOH,Doha,Qatar,No,0,320,Departure,LXR
+RJ,Royal Jordanian,AMM,Amman,Jordan,CAI,Cairo,Egypt,No,0,E95 E75 319,Arrival,CAI
+RJ,Royal Jordanian,AMM,Amman,Jordan,SSH,Sharm El Sheikh,Egypt,No,0,320,Arrival,SSH
+RJ,Royal Jordanian,CAI,Cairo,Egypt,AMM,Amman,Jordan,No,0,E95 E75 319,Departure,CAI
+RJ,Royal Jordanian,SSH,Sharm El Sheikh,Egypt,AMM,Amman,Jordan,No,0,320,Departure,SSH
+RL,Royal Falcon,AMM,Amman,Jordan,CAI,Cairo,Egypt,No,0,737,Arrival,CAI
+RL,Royal Falcon,CAI,Cairo,Egypt,AMM,Amman,Jordan,No,0,737,Departure,CAI
+SA,South African Airways,CAI,Cairo,Egypt,JNB,Johannesburg,South Africa,Yes,0,330,Departure,CAI
+SA,South African Airways,JNB,Johannesburg,South Africa,CAI,Cairo,Egypt,Yes,0,330,Arrival,CAI
+SD,Sudan Airways,CAI,Cairo,Egypt,KRT,Khartoum,Sudan,No,0,320 AB6,Departure,CAI
+SD,Sudan Airways,CAI,Cairo,Egypt,PZU,Port Sudan,Sudan,No,0,320,Departure,CAI
+SD,Sudan Airways,KRT,Khartoum,Sudan,CAI,Cairo,Egypt,No,0,320 AB6,Arrival,CAI
+SD,Sudan Airways,PZU,Port Sudan,Sudan,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+SK,Scandinavian Airlines System,CAI,Cairo,Egypt,CPH,Copenhagen,Denmark,Yes,0,738,Departure,CAI
+SK,Scandinavian Airlines System,CPH,Copenhagen,Denmark,CAI,Cairo,Egypt,Yes,0,738,Arrival,CAI
+SN,Brussels Airlines,BRU,Brussels,Belgium,CAI,Cairo,Egypt,Yes,0,320,Arrival,CAI
+SN,Brussels Airlines,CAI,Cairo,Egypt,BRU,Brussels,Belgium,Yes,0,320,Departure,CAI
+SQ,Singapore Airlines,CAI,Cairo,Egypt,DXB,Dubai,United Arab Emirates,No,0,333,Departure,CAI
+SQ,Singapore Airlines,DXB,Dubai,United Arab Emirates,CAI,Cairo,Egypt,No,0,333,Arrival,CAI
+SU,Aeroflot Russian Airlines,CAI,Cairo,Egypt,SVO,Moscow,Russia,No,0,320,Departure,CAI
+SU,Aeroflot Russian Airlines,SVO,Moscow,Russia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+SV,Saudi Arabian Airlines,AHB,Abha,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+SV,Saudi Arabian Airlines,CAI,Cairo,Egypt,AHB,Abha,Saudi Arabia,No,0,321,Departure,CAI
+SV,Saudi Arabian Airlines,CAI,Cairo,Egypt,DMM,Dammam,Saudi Arabia,No,0,320 321,Departure,CAI
+SV,Saudi Arabian Airlines,CAI,Cairo,Egypt,JED,Jeddah,Saudi Arabia,No,0,333 772 744,Departure,CAI
+SV,Saudi Arabian Airlines,CAI,Cairo,Egypt,MED,Madinah,Saudi Arabia,No,0,320 74E 772,Departure,CAI
+SV,Saudi Arabian Airlines,CAI,Cairo,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320 772 333,Departure,CAI
+SV,Saudi Arabian Airlines,DMM,Dammam,Saudi Arabia,CAI,Cairo,Egypt,No,0,321,Arrival,CAI
+SV,Saudi Arabian Airlines,HBE,Alexandria,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,HBE
+SV,Saudi Arabian Airlines,HBE,Alexandria,Egypt,MED,Madinah,Saudi Arabia,No,0,AB6 320,Departure,HBE
+SV,Saudi Arabian Airlines,HBE,Alexandria,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320,Departure,HBE
+SV,Saudi Arabian Airlines,JED,Jeddah,Saudi Arabia,CAI,Cairo,Egypt,No,0,333 772 744,Arrival,CAI
+SV,Saudi Arabian Airlines,JED,Jeddah,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320 AB6,Arrival,HBE
+SV,Saudi Arabian Airlines,JED,Jeddah,Saudi Arabia,SSH,Sharm El Sheikh,Egypt,No,0,E70,Arrival,SSH
+SV,Saudi Arabian Airlines,MED,Madinah,Saudi Arabia,CAI,Cairo,Egypt,No,0,320 74E 772,Arrival,CAI
+SV,Saudi Arabian Airlines,RUH,Riyadh,Saudi Arabia,CAI,Cairo,Egypt,No,0,320 772 333,Arrival,CAI
+SV,Saudi Arabian Airlines,RUH,Riyadh,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+SV,Saudi Arabian Airlines,RUH,Riyadh,Saudi Arabia,SSH,Sharm El Sheikh,Egypt,No,0,E70,Arrival,SSH
+SV,Saudi Arabian Airlines,SSH,Sharm El Sheikh,Egypt,JED,Jeddah,Saudi Arabia,No,0,E70,Departure,SSH
+SV,Saudi Arabian Airlines,SSH,Sharm El Sheikh,Egypt,RUH,Riyadh,Saudi Arabia,No,0,E70,Departure,SSH
+TCX,Thomas Cook Airlines,HRG,Hurghada,Egypt,LGW,London,United Kingdom,No,0,752 753,Departure,HRG
+TCX,Thomas Cook Airlines,HRG,Hurghada,Egypt,MAN,Manchester,United Kingdom,No,0,763,Departure,HRG
+TCX,Thomas Cook Airlines,LGW,London,United Kingdom,HRG,Hurghada,Egypt,No,0,752 753,Arrival,HRG
+TCX,Thomas Cook Airlines,LGW,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,753,Arrival,SSH
+TCX,Thomas Cook Airlines,MAN,Manchester,United Kingdom,HRG,Hurghada,Egypt,No,0,763,Arrival,HRG
+TCX,Thomas Cook Airlines,MAN,Manchester,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,763,Arrival,SSH
+TCX,Thomas Cook Airlines,NCL,Newcastle,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,752,Arrival,SSH
+TCX,Thomas Cook Airlines,SSH,Sharm El Sheikh,Egypt,BHX,Birmingham,United Kingdom,No,0,752,Departure,SSH
+TCX,Thomas Cook Airlines,SSH,Sharm El Sheikh,Egypt,LGW,London,United Kingdom,No,0,753,Departure,SSH
+TCX,Thomas Cook Airlines,SSH,Sharm El Sheikh,Egypt,MAN,Manchester,United Kingdom,No,0,763,Departure,SSH
+TCX,Thomas Cook Airlines,SSH,Sharm El Sheikh,Egypt,NCL,Newcastle,United Kingdom,No,0,752,Departure,SSH
+TG,Thai Airways International,BKK,Bangkok,Thailand,CAI,Cairo,Egypt,No,0,773,Arrival,CAI
+TG,Thai Airways International,CAI,Cairo,Egypt,BKK,Bangkok,Thailand,No,0,773,Departure,CAI
+TK,Turkish Airlines,CAI,Cairo,Egypt,IST,Istanbul,Turkey,No,0,320 738 321 739 319,Departure,CAI
+TK,Turkish Airlines,CAI,Cairo,Egypt,JUB,Juba,South Sudan,Yes,0,320,Departure,CAI
+TK,Turkish Airlines,HBE,Alexandria,Egypt,IST,Istanbul,Turkey,No,0,73W 319,Departure,HBE
+TK,Turkish Airlines,HRG,Hurghada,Egypt,IST,Istanbul,Turkey,No,0,738 320,Departure,HRG
+TK,Turkish Airlines,IST,Istanbul,Turkey,CAI,Cairo,Egypt,No,0,320 738 321 739 319,Arrival,CAI
+TK,Turkish Airlines,IST,Istanbul,Turkey,HBE,Alexandria,Egypt,No,0,73W 319,Arrival,HBE
+TK,Turkish Airlines,IST,Istanbul,Turkey,HRG,Hurghada,Egypt,No,0,738 320,Arrival,HRG
+TK,Turkish Airlines,IST,Istanbul,Turkey,SSH,Sharm El Sheikh,Egypt,No,0,738 319,Arrival,SSH
+TK,Turkish Airlines,JUB,Juba,South Sudan,CAI,Cairo,Egypt,Yes,0,320,Arrival,CAI
+TK,Turkish Airlines,SSH,Sharm El Sheikh,Egypt,IST,Istanbul,Turkey,No,0,738 319,Departure,SSH
+TO,Transavia France,BHX,Birmingham,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,73H,Arrival,SSH
+TO,Transavia France,HRG,Hurghada,Egypt,LGW,London,United Kingdom,No,0,73H 75W,Departure,HRG
+TO,Transavia France,HRG,Hurghada,Egypt,MAN,Manchester,United Kingdom,No,0,73H,Departure,HRG
+TO,Transavia France,LGW,London,United Kingdom,HRG,Hurghada,Egypt,No,0,73H 75W,Arrival,HRG
+TO,Transavia France,LGW,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,73H,Arrival,SSH
+TO,Transavia France,LTN,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,73H,Arrival,SSH
+TO,Transavia France,MAN,Manchester,United Kingdom,HRG,Hurghada,Egypt,No,0,73H,Arrival,HRG
+TO,Transavia France,MAN,Manchester,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,75W,Arrival,SSH
+TO,Transavia France,SSH,Sharm El Sheikh,Egypt,BHX,Birmingham,United Kingdom,No,0,73H,Departure,SSH
+TO,Transavia France,SSH,Sharm El Sheikh,Egypt,LGW,London,United Kingdom,No,0,73H,Departure,SSH
+TO,Transavia France,SSH,Sharm El Sheikh,Egypt,LTN,London,United Kingdom,No,0,73H,Departure,SSH
+TO,Transavia France,SSH,Sharm El Sheikh,Egypt,MAN,Manchester,United Kingdom,No,0,75W,Departure,SSH
+TO,Transavia France,SSH,Sharm El Sheikh,Egypt,STN,London,United Kingdom,No,0,73H,Departure,SSH
+TO,Transavia France,STN,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,73H,Arrival,SSH
+TOM,Thomsonfly,BHX,Birmingham,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,75W,Arrival,SSH
+TOM,Thomsonfly,HRG,Hurghada,Egypt,LGW,London,United Kingdom,No,0,73H,Departure,HRG
+TOM,Thomsonfly,HRG,Hurghada,Egypt,MAN,Manchester,United Kingdom,No,0,75W,Departure,HRG
+TOM,Thomsonfly,LGW,London,United Kingdom,HRG,Hurghada,Egypt,No,0,73H,Arrival,HRG
+TOM,Thomsonfly,LGW,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,75W 73H,Arrival,SSH
+TOM,Thomsonfly,MAN,Manchester,United Kingdom,HRG,Hurghada,Egypt,No,0,75W,Arrival,HRG
+TOM,Thomsonfly,MAN,Manchester,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,73H,Arrival,SSH
+TOM,Thomsonfly,SSH,Sharm El Sheikh,Egypt,BHX,Birmingham,United Kingdom,No,0,75W,Departure,SSH
+TOM,Thomsonfly,SSH,Sharm El Sheikh,Egypt,LGW,London,United Kingdom,No,0,75W 73H,Departure,SSH
+TOM,Thomsonfly,SSH,Sharm El Sheikh,Egypt,MAN,Manchester,United Kingdom,No,0,73H,Departure,SSH
+TU,Tunisair,CAI,Cairo,Egypt,TUN,Tunis,Tunisia,No,0,32A,Departure,CAI
+TU,Tunisair,TUN,Tunis,Tunisia,CAI,Cairo,Egypt,No,0,32A,Arrival,CAI
+U2,easyJet,GVA,Geneva,Switzerland,HRG,Hurghada,Egypt,No,0,320,Arrival,HRG
+U2,easyJet,HRG,Hurghada,Egypt,GVA,Geneva,Switzerland,No,0,320,Departure,HRG
+U2,easyJet,HRG,Hurghada,Egypt,LGW,London,United Kingdom,No,0,320,Departure,HRG
+U2,easyJet,LGW,London,United Kingdom,HRG,Hurghada,Egypt,No,0,320,Arrival,HRG
+U2,easyJet,LGW,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,320,Arrival,SSH
+U2,easyJet,LTN,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,320,Arrival,SSH
+U2,easyJet,MAN,Manchester,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,320,Arrival,SSH
+U2,easyJet,MXP,Milano,Italy,SSH,Sharm El Sheikh,Egypt,No,0,320,Arrival,SSH
+U2,easyJet,SSH,Sharm El Sheikh,Egypt,LGW,London,United Kingdom,No,0,320,Departure,SSH
+U2,easyJet,SSH,Sharm El Sheikh,Egypt,LTN,London,United Kingdom,No,0,320,Departure,SSH
+U2,easyJet,SSH,Sharm El Sheikh,Egypt,MAN,Manchester,United Kingdom,No,0,320,Departure,SSH
+U2,easyJet,SSH,Sharm El Sheikh,Egypt,MXP,Milano,Italy,No,0,320,Departure,SSH
+U2,easyJet,SSH,Sharm El Sheikh,Egypt,STN,London,United Kingdom,No,0,320,Departure,SSH
+U2,easyJet,STN,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,320,Arrival,SSH
+UA,United Airlines,CAI,Cairo,Egypt,JFK,New York,United States,Yes,0,773,Departure,CAI
+UA,United Airlines,JFK,New York,United States,CAI,Cairo,Egypt,Yes,0,773,Arrival,CAI
+UJ,AlMasria Universal Airlines,AHB,Abha,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+UJ,AlMasria Universal Airlines,CAI,Cairo,Egypt,AHB,Abha,Saudi Arabia,No,0,320,Departure,CAI
+UJ,AlMasria Universal Airlines,CAI,Cairo,Egypt,ELQ,Gassim,Saudi Arabia,No,0,320,Departure,CAI
+UJ,AlMasria Universal Airlines,CAI,Cairo,Egypt,TIF,Taif,Saudi Arabia,No,0,320,Departure,CAI
+UJ,AlMasria Universal Airlines,CAI,Cairo,Egypt,TUU,Tabuk,Saudi Arabia,No,0,320,Departure,CAI
+UJ,AlMasria Universal Airlines,CAI,Cairo,Egypt,YNB,Yenbo,Saudi Arabia,No,0,320,Departure,CAI
+UJ,AlMasria Universal Airlines,ELQ,Gassim,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+UJ,AlMasria Universal Airlines,HBE,Alexandria,Egypt,JED,Jeddah,Saudi Arabia,No,0,321,Departure,HBE
+UJ,AlMasria Universal Airlines,JED,Jeddah,Saudi Arabia,HBE,Alexandria,Egypt,No,0,321,Arrival,HBE
+UJ,AlMasria Universal Airlines,TIF,Taif,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+UJ,AlMasria Universal Airlines,TUU,Tabuk,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+UJ,AlMasria Universal Airlines,YNB,Yenbo,Saudi Arabia,CAI,Cairo,Egypt,No,0,320,Arrival,CAI
+UN,Transaero Airlines,DME,Moscow,Russia,HRG,Hurghada,Egypt,No,0,T20 744,Arrival,HRG
+UN,Transaero Airlines,DME,Moscow,Russia,SSH,Sharm El Sheikh,Egypt,No,0,772,Arrival,SSH
+UN,Transaero Airlines,HRG,Hurghada,Egypt,DME,Moscow,Russia,No,0,T20 744,Departure,HRG
+UN,Transaero Airlines,HRG,Hurghada,Egypt,OVB,Novosibirsk,Russia,No,0,763,Departure,HRG
+UN,Transaero Airlines,HRG,Hurghada,Egypt,SVO,Moscow,Russia,No,0,744,Departure,HRG
+UN,Transaero Airlines,HRG,Hurghada,Egypt,SVX,Yekaterinburg,Russia,No,0,738,Departure,HRG
+UN,Transaero Airlines,HRG,Hurghada,Egypt,VKO,Moscow,Russia,No,0,738,Departure,HRG
+UN,Transaero Airlines,OVB,Novosibirsk,Russia,HRG,Hurghada,Egypt,No,0,763,Arrival,HRG
+UN,Transaero Airlines,SSH,Sharm El Sheikh,Egypt,DME,Moscow,Russia,No,0,772,Departure,SSH
+UN,Transaero Airlines,SSH,Sharm El Sheikh,Egypt,SVO,Moscow,Russia,No,0,744,Departure,SSH
+UN,Transaero Airlines,SSH,Sharm El Sheikh,Egypt,SVX,Yekaterinburg,Russia,No,0,738,Departure,SSH
+UN,Transaero Airlines,SSH,Sharm El Sheikh,Egypt,VKO,Moscow,Russia,No,0,738,Departure,SSH
+UN,Transaero Airlines,SVO,Moscow,Russia,HRG,Hurghada,Egypt,No,0,744,Arrival,HRG
+UN,Transaero Airlines,SVO,Moscow,Russia,SSH,Sharm El Sheikh,Egypt,No,0,744,Arrival,SSH
+UN,Transaero Airlines,SVX,Yekaterinburg,Russia,HRG,Hurghada,Egypt,No,0,738,Arrival,HRG
+UN,Transaero Airlines,SVX,Yekaterinburg,Russia,SSH,Sharm El Sheikh,Egypt,No,0,738,Arrival,SSH
+UN,Transaero Airlines,VKO,Moscow,Russia,HRG,Hurghada,Egypt,No,0,738,Arrival,HRG
+UN,Transaero Airlines,VKO,Moscow,Russia,SSH,Sharm El Sheikh,Egypt,No,0,738,Arrival,SSH
+WY,Oman Air,CAI,Cairo,Egypt,MCT,Muscat,Oman,No,0,738,Departure,CAI
+WY,Oman Air,MCT,Muscat,Oman,CAI,Cairo,Egypt,No,0,738,Arrival,CAI
+X3,TUIfly,DUS,Duesseldorf,Germany,HRG,Hurghada,Egypt,No,0,73H,Arrival,HRG
+X3,TUIfly,HRG,Hurghada,Egypt,DUS,Duesseldorf,Germany,No,0,73H,Departure,HRG
+XY,Nas Air,ASW,Aswan,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,ASW
+XY,Nas Air,ATZ,Asyut,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,ATZ
+XY,Nas Air,ATZ,Asyut,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320,Departure,ATZ
+XY,Nas Air,HBE,Alexandria,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,HBE
+XY,Nas Air,HBE,Alexandria,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320,Departure,HBE
+XY,Nas Air,HMB,Sohag,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,HMB
+XY,Nas Air,HMB,Sohag,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320,Departure,HMB
+XY,Nas Air,JED,Jeddah,Saudi Arabia,ASW,Aswan,Egypt,No,0,320,Arrival,ASW
+XY,Nas Air,JED,Jeddah,Saudi Arabia,ATZ,Asyut,Egypt,No,0,320,Arrival,ATZ
+XY,Nas Air,JED,Jeddah,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+XY,Nas Air,JED,Jeddah,Saudi Arabia,HMB,Sohag,Egypt,No,0,320,Arrival,HMB
+XY,Nas Air,JED,Jeddah,Saudi Arabia,LXR,Luxor,Egypt,No,0,320,Arrival,LXR
+XY,Nas Air,LXR,Luxor,Egypt,JED,Jeddah,Saudi Arabia,No,0,320,Departure,LXR
+XY,Nas Air,LXR,Luxor,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320,Departure,LXR
+XY,Nas Air,RUH,Riyadh,Saudi Arabia,ATZ,Asyut,Egypt,No,0,320,Arrival,ATZ
+XY,Nas Air,RUH,Riyadh,Saudi Arabia,HBE,Alexandria,Egypt,No,0,320,Arrival,HBE
+XY,Nas Air,RUH,Riyadh,Saudi Arabia,HMB,Sohag,Egypt,No,0,320,Arrival,HMB
+XY,Nas Air,RUH,Riyadh,Saudi Arabia,LXR,Luxor,Egypt,No,0,320,Arrival,LXR
+XY,Nas Air,RUH,Riyadh,Saudi Arabia,SSH,Sharm El Sheikh,Egypt,No,0,320,Arrival,SSH
+XY,Nas Air,SSH,Sharm El Sheikh,Egypt,RUH,Riyadh,Saudi Arabia,No,0,320,Departure,SSH
+ZB,Air Bourbon,BHX,Birmingham,United Kingdom,HRG,Hurghada,Egypt,No,0,321,Arrival,HRG
+ZB,Air Bourbon,BHX,Birmingham,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,321,Arrival,SSH
+ZB,Air Bourbon,HRG,Hurghada,Egypt,BHX,Birmingham,United Kingdom,No,0,321,Departure,HRG
+ZB,Air Bourbon,HRG,Hurghada,Egypt,LGW,London,United Kingdom,No,0,321,Departure,HRG
+ZB,Air Bourbon,HRG,Hurghada,Egypt,MAN,Manchester,United Kingdom,No,0,321,Departure,HRG
+ZB,Air Bourbon,LGW,London,United Kingdom,HRG,Hurghada,Egypt,No,0,321,Arrival,HRG
+ZB,Air Bourbon,LGW,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,332 321,Arrival,SSH
+ZB,Air Bourbon,LTN,London,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,321,Arrival,SSH
+ZB,Air Bourbon,MAN,Manchester,United Kingdom,HRG,Hurghada,Egypt,No,0,321,Arrival,HRG
+ZB,Air Bourbon,MAN,Manchester,United Kingdom,SSH,Sharm El Sheikh,Egypt,No,0,321 332,Arrival,SSH
+ZB,Air Bourbon,SSH,Sharm El Sheikh,Egypt,BHX,Birmingham,United Kingdom,No,0,321,Departure,SSH
+ZB,Air Bourbon,SSH,Sharm El Sheikh,Egypt,LGW,London,United Kingdom,No,0,332 321,Departure,SSH
+ZB,Air Bourbon,SSH,Sharm El Sheikh,Egypt,LTN,London,United Kingdom,No,0,321,Departure,SSH
+ZB,Air Bourbon,SSH,Sharm El Sheikh,Egypt,MAN,Manchester,United Kingdom,No,0,321 332,Departure,SSH

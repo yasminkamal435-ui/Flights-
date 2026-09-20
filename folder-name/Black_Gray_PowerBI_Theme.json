@@ -1,0 +1,14 @@
+{
+  "name": "Egypt Aviation Black-Gray",
+  "dataColors": ["#222222", "#555555", "#8C8C8C", "#D4D4D4", "#111111", "#3a3a3a", "#6b6b6b", "#b6b6b6"],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#222222",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "background": { "solid": { "color": "#222222" } } }]
+      }
+    }
+  }
+}
